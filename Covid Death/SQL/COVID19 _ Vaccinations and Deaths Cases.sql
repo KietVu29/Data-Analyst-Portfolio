@@ -1,3 +1,5 @@
+-- Data Source: https://ourworldindata.org/covid-deaths
+
 -- Observe CovidDeaths Data
 SELECT *
 FROM PortfolioProject..CovidDeaths
